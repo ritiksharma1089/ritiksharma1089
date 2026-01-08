@@ -5,9 +5,9 @@
 💞️ Looking to collaborate on meaningful backend and full-stack projects  
 
 📫 Connect with me:  
-🔗 Portfolio: https://your-portfolio-link  
-📧 Email: your-email@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin  
+🔗 Portfolio: [https://your-portfolio-link ](https://portfolio-b29b.vercel.app/) 
+📧 Email: rijikkaushik9@gmail.com 
+💼 LinkedIn:[ https://www.linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/rijik-sharma-a0965a256/)
 
 😄 Pronouns: he/him  
 ⚡ Fun fact: Every project I build improves not just my code, but my confidence as a developer.
