@@ -6,7 +6,9 @@
 
 📫 Connect with me:  
 🔗 Portfolio: [https://your-portfolio-link ](https://portfolio-b29b.vercel.app/) 
+
 📧 Email: rijikkaushik9@gmail.com 
+
 💼 LinkedIn:[ https://www.linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/rijik-sharma-a0965a256/)
 
 😄 Pronouns: he/him  
